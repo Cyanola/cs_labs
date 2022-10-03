@@ -18,5 +18,11 @@ namespace lab3_2
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        public static int Factorial(int n)
+        {
+            if (n == 0) return 0;
+            if (n == 1) return 1;
+            return n * Factorial(n - 1);
+        }
     }
 }
