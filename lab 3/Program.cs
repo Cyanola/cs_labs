@@ -15,7 +15,7 @@ namespace Lab3_1
             while (choice != 0)
             {
                 Console.Clear();
-                Console.WriteLine("Выберите номер задания(1-4) и 0, чтобы выйти: ");
+                Console.WriteLine("Выберите номер задания(2-4) и 0, чтобы выйти: ");
                 choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
                 {
@@ -39,6 +39,11 @@ namespace Lab3_1
                         {
                             Z3();
                             Console.ReadKey();
+                            break;
+                        }
+                    default:
+                        {
+                            Console.WriteLine("Такого задания не существует");
                             break;
                         }
                 }

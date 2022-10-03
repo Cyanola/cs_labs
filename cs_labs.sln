@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab 3", "lab 3\lab 3.csproj", "{04121335-481E-414C-B0BB-A59CDBE53DA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab 3_1", "lab 3\lab 3_1.csproj", "{04121335-481E-414C-B0BB-A59CDBE53DA6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4", "lab4\lab4.csproj", "{B236DEB9-9D23-449B-8AB9-2595CB1D652A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1", "lab1\lab1.csproj", "{04AA6603-04C7-4E62-A3A6-504BAD9047D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab5", "lab5\lab5.csproj", "{79A4AB9B-62C0-42AB-BA2A-AED47AC49B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3_2", "lab3_2\lab3_2.csproj", "{350E5B4C-B997-43FE-A8F9-0B04F1A51333}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{79A4AB9B-62C0-42AB-BA2A-AED47AC49B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79A4AB9B-62C0-42AB-BA2A-AED47AC49B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79A4AB9B-62C0-42AB-BA2A-AED47AC49B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350E5B4C-B997-43FE-A8F9-0B04F1A51333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350E5B4C-B997-43FE-A8F9-0B04F1A51333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350E5B4C-B997-43FE-A8F9-0B04F1A51333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350E5B4C-B997-43FE-A8F9-0B04F1A51333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
