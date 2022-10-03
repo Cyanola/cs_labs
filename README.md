@@ -1,1 +1,1 @@
-# lab 3
+# laboratory
